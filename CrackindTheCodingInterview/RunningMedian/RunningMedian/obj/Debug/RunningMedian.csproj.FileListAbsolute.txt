@@ -1,0 +1,6 @@
+C:\Projects\VSProjects\HackerRank\RunningMedian\RunningMedian\bin\Debug\RunningMedian.exe.config
+C:\Projects\VSProjects\HackerRank\RunningMedian\RunningMedian\bin\Debug\RunningMedian.exe
+C:\Projects\VSProjects\HackerRank\RunningMedian\RunningMedian\bin\Debug\RunningMedian.pdb
+C:\Projects\VSProjects\HackerRank\RunningMedian\RunningMedian\obj\Debug\RunningMedian.csprojResolveAssemblyReference.cache
+C:\Projects\VSProjects\HackerRank\RunningMedian\RunningMedian\obj\Debug\RunningMedian.exe
+C:\Projects\VSProjects\HackerRank\RunningMedian\RunningMedian\obj\Debug\RunningMedian.pdb

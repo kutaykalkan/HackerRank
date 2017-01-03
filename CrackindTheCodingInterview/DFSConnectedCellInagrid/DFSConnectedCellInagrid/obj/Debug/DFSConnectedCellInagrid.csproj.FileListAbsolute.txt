@@ -1,0 +1,6 @@
+C:\Projects\VSProjects\HackerRank\DFSConnectedCellInagrid\DFSConnectedCellInagrid\bin\Debug\DFSConnectedCellInagrid.exe.config
+C:\Projects\VSProjects\HackerRank\DFSConnectedCellInagrid\DFSConnectedCellInagrid\bin\Debug\DFSConnectedCellInagrid.exe
+C:\Projects\VSProjects\HackerRank\DFSConnectedCellInagrid\DFSConnectedCellInagrid\bin\Debug\DFSConnectedCellInagrid.pdb
+C:\Projects\VSProjects\HackerRank\DFSConnectedCellInagrid\DFSConnectedCellInagrid\obj\Debug\DFSConnectedCellInagrid.csprojResolveAssemblyReference.cache
+C:\Projects\VSProjects\HackerRank\DFSConnectedCellInagrid\DFSConnectedCellInagrid\obj\Debug\DFSConnectedCellInagrid.exe
+C:\Projects\VSProjects\HackerRank\DFSConnectedCellInagrid\DFSConnectedCellInagrid\obj\Debug\DFSConnectedCellInagrid.pdb

@@ -1,0 +1,6 @@
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\Strings\TwoCharacters\TwoCharacters\TwoCharacters\bin\Debug\TwoCharacters.exe.config
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\Strings\TwoCharacters\TwoCharacters\TwoCharacters\bin\Debug\TwoCharacters.exe
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\Strings\TwoCharacters\TwoCharacters\TwoCharacters\bin\Debug\TwoCharacters.pdb
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\Strings\TwoCharacters\TwoCharacters\TwoCharacters\obj\Debug\TwoCharacters.csprojResolveAssemblyReference.cache
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\Strings\TwoCharacters\TwoCharacters\TwoCharacters\obj\Debug\TwoCharacters.exe
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\Strings\TwoCharacters\TwoCharacters\TwoCharacters\obj\Debug\TwoCharacters.pdb

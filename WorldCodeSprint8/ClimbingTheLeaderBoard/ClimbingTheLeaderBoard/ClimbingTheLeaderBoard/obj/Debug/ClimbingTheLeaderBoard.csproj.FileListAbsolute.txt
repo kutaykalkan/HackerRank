@@ -1,0 +1,6 @@
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\WorldCodeSprint8\ClimbingTheLeaderBoard\ClimbingTheLeaderBoard\ClimbingTheLeaderBoard\bin\Debug\ClimbingTheLeaderBoard.exe.config
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\WorldCodeSprint8\ClimbingTheLeaderBoard\ClimbingTheLeaderBoard\ClimbingTheLeaderBoard\bin\Debug\ClimbingTheLeaderBoard.exe
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\WorldCodeSprint8\ClimbingTheLeaderBoard\ClimbingTheLeaderBoard\ClimbingTheLeaderBoard\bin\Debug\ClimbingTheLeaderBoard.pdb
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\WorldCodeSprint8\ClimbingTheLeaderBoard\ClimbingTheLeaderBoard\ClimbingTheLeaderBoard\obj\Debug\ClimbingTheLeaderBoard.csprojResolveAssemblyReference.cache
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\WorldCodeSprint8\ClimbingTheLeaderBoard\ClimbingTheLeaderBoard\ClimbingTheLeaderBoard\obj\Debug\ClimbingTheLeaderBoard.exe
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\WorldCodeSprint8\ClimbingTheLeaderBoard\ClimbingTheLeaderBoard\ClimbingTheLeaderBoard\obj\Debug\ClimbingTheLeaderBoard.pdb

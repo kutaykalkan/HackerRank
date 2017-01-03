@@ -1,0 +1,12 @@
+C:\Projects\VSProjects\Anagrams\Anagrams\bin\Debug\Anagrams.exe.config
+C:\Projects\VSProjects\Anagrams\Anagrams\bin\Debug\Anagrams.exe
+C:\Projects\VSProjects\Anagrams\Anagrams\bin\Debug\Anagrams.pdb
+C:\Projects\VSProjects\Anagrams\Anagrams\obj\Debug\Anagrams.csprojResolveAssemblyReference.cache
+C:\Projects\VSProjects\Anagrams\Anagrams\obj\Debug\Anagrams.exe
+C:\Projects\VSProjects\Anagrams\Anagrams\obj\Debug\Anagrams.pdb
+C:\Projects\VSProjects\HackerRank\Anagrams\Anagrams\bin\Debug\Anagrams.exe.config
+C:\Projects\VSProjects\HackerRank\Anagrams\Anagrams\obj\Debug\Anagrams.exe
+C:\Projects\VSProjects\HackerRank\Anagrams\Anagrams\obj\Debug\Anagrams.pdb
+C:\Projects\VSProjects\HackerRank\Anagrams\Anagrams\bin\Debug\Anagrams.exe
+C:\Projects\VSProjects\HackerRank\Anagrams\Anagrams\bin\Debug\Anagrams.pdb
+C:\Projects\VSProjects\HackerRank\Anagrams\Anagrams\obj\Debug\Anagrams.csprojResolveAssemblyReference.cache

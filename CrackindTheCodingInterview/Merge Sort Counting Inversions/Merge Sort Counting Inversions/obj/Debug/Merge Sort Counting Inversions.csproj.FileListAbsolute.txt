@@ -1,0 +1,6 @@
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\CrackindTheCodingInterview\Merge Sort Counting Inversions\Merge Sort Counting Inversions\bin\Debug\Merge Sort Counting Inversions.exe.config
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\CrackindTheCodingInterview\Merge Sort Counting Inversions\Merge Sort Counting Inversions\bin\Debug\Merge Sort Counting Inversions.exe
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\CrackindTheCodingInterview\Merge Sort Counting Inversions\Merge Sort Counting Inversions\bin\Debug\Merge Sort Counting Inversions.pdb
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\CrackindTheCodingInterview\Merge Sort Counting Inversions\Merge Sort Counting Inversions\obj\Debug\Merge Sort Counting Inversions.csprojResolveAssemblyReference.cache
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\CrackindTheCodingInterview\Merge Sort Counting Inversions\Merge Sort Counting Inversions\obj\Debug\Merge Sort Counting Inversions.exe
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\CrackindTheCodingInterview\Merge Sort Counting Inversions\Merge Sort Counting Inversions\obj\Debug\Merge Sort Counting Inversions.pdb

@@ -1,0 +1,6 @@
+C:\Projects\VSProjects\IsBinarySearchTree\IsBinarySearchTree\bin\Debug\IsBinarySearchTree.exe.config
+C:\Projects\VSProjects\IsBinarySearchTree\IsBinarySearchTree\bin\Debug\IsBinarySearchTree.exe
+C:\Projects\VSProjects\IsBinarySearchTree\IsBinarySearchTree\bin\Debug\IsBinarySearchTree.pdb
+C:\Projects\VSProjects\IsBinarySearchTree\IsBinarySearchTree\obj\Debug\IsBinarySearchTree.csprojResolveAssemblyReference.cache
+C:\Projects\VSProjects\IsBinarySearchTree\IsBinarySearchTree\obj\Debug\IsBinarySearchTree.exe
+C:\Projects\VSProjects\IsBinarySearchTree\IsBinarySearchTree\obj\Debug\IsBinarySearchTree.pdb

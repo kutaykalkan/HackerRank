@@ -1,0 +1,6 @@
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\Strings\TwoCharacters\Pangrams\Pangrams\Pangrams\bin\Debug\Pangrams.exe.config
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\Strings\TwoCharacters\Pangrams\Pangrams\Pangrams\bin\Debug\Pangrams.exe
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\Strings\TwoCharacters\Pangrams\Pangrams\Pangrams\bin\Debug\Pangrams.pdb
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\Strings\TwoCharacters\Pangrams\Pangrams\Pangrams\obj\Debug\Pangrams.csprojResolveAssemblyReference.cache
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\Strings\TwoCharacters\Pangrams\Pangrams\Pangrams\obj\Debug\Pangrams.exe
+C:\Users\kutay\OneDrive\Projects\VSProjects\HackerRank\Strings\TwoCharacters\Pangrams\Pangrams\Pangrams\obj\Debug\Pangrams.pdb

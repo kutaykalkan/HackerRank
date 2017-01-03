@@ -1,0 +1,9 @@
+C:\Projects\VSProjects\RansomNote\RansomNote\bin\Debug\RansomNote.exe.config
+C:\Projects\VSProjects\RansomNote\RansomNote\bin\Debug\RansomNote.exe
+C:\Projects\VSProjects\RansomNote\RansomNote\bin\Debug\RansomNote.pdb
+C:\Projects\VSProjects\RansomNote\RansomNote\obj\Debug\RansomNote.csprojResolveAssemblyReference.cache
+C:\Projects\VSProjects\RansomNote\RansomNote\obj\Debug\RansomNote.exe
+C:\Projects\VSProjects\RansomNote\RansomNote\obj\Debug\RansomNote.pdb
+C:\Projects\VSProjects\HackerRank\RansomNote\RansomNote\bin\Debug\RansomNote.exe.config
+C:\Projects\VSProjects\HackerRank\RansomNote\RansomNote\obj\Debug\RansomNote.exe
+C:\Projects\VSProjects\HackerRank\RansomNote\RansomNote\obj\Debug\RansomNote.pdb

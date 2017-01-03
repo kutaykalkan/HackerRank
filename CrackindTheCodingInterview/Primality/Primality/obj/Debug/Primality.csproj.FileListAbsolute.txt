@@ -1,0 +1,6 @@
+C:\Projects\VSProjects\HackerRank\Primality\Primality\bin\Debug\Primality.exe.config
+C:\Projects\VSProjects\HackerRank\Primality\Primality\bin\Debug\Primality.exe
+C:\Projects\VSProjects\HackerRank\Primality\Primality\bin\Debug\Primality.pdb
+C:\Projects\VSProjects\HackerRank\Primality\Primality\obj\Debug\Primality.csprojResolveAssemblyReference.cache
+C:\Projects\VSProjects\HackerRank\Primality\Primality\obj\Debug\Primality.exe
+C:\Projects\VSProjects\HackerRank\Primality\Primality\obj\Debug\Primality.pdb

@@ -1,0 +1,6 @@
+C:\Projects\VSProjects\HackerRank\BalancedBrackets\BalancedBrackets\BalancedBrackets\bin\Debug\BalancedBrackets.exe.config
+C:\Projects\VSProjects\HackerRank\BalancedBrackets\BalancedBrackets\BalancedBrackets\bin\Debug\BalancedBrackets.exe
+C:\Projects\VSProjects\HackerRank\BalancedBrackets\BalancedBrackets\BalancedBrackets\bin\Debug\BalancedBrackets.pdb
+C:\Projects\VSProjects\HackerRank\BalancedBrackets\BalancedBrackets\BalancedBrackets\obj\Debug\BalancedBrackets.csprojResolveAssemblyReference.cache
+C:\Projects\VSProjects\HackerRank\BalancedBrackets\BalancedBrackets\BalancedBrackets\obj\Debug\BalancedBrackets.exe
+C:\Projects\VSProjects\HackerRank\BalancedBrackets\BalancedBrackets\BalancedBrackets\obj\Debug\BalancedBrackets.pdb

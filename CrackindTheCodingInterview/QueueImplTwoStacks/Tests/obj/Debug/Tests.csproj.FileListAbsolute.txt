@@ -1,0 +1,15 @@
+C:\Projects\VSProjects\QueueImplTwoStacks\Tests\bin\Debug\Tests.exe.config
+C:\Projects\VSProjects\QueueImplTwoStacks\Tests\bin\Debug\Tests.exe
+C:\Projects\VSProjects\QueueImplTwoStacks\Tests\bin\Debug\Tests.pdb
+C:\Projects\VSProjects\QueueImplTwoStacks\Tests\bin\Debug\nunit.framework.dll
+C:\Projects\VSProjects\QueueImplTwoStacks\Tests\bin\Debug\PostSharp.dll
+C:\Projects\VSProjects\QueueImplTwoStacks\Tests\bin\Debug\QueueImplTwoStacks.exe
+C:\Projects\VSProjects\QueueImplTwoStacks\Tests\bin\Debug\QueueImplTwoStacks.pdb
+C:\Projects\VSProjects\QueueImplTwoStacks\Tests\bin\Debug\nunit.framework.xml
+C:\Projects\VSProjects\QueueImplTwoStacks\Tests\bin\Debug\PostSharp.xml
+C:\Projects\VSProjects\QueueImplTwoStacks\Tests\bin\Debug\Tests.pssym
+C:\Projects\VSProjects\QueueImplTwoStacks\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Projects\VSProjects\QueueImplTwoStacks\Tests\obj\Debug\Tests.exe.postsharp
+C:\Projects\VSProjects\QueueImplTwoStacks\Tests\obj\Debug\Tests.exe
+C:\Projects\VSProjects\QueueImplTwoStacks\Tests\obj\Debug\Tests.pdb
+C:\Projects\VSProjects\QueueImplTwoStacks\Tests\obj\Debug\PostSharpHost.config

@@ -1,0 +1,10 @@
+C:\Projects\VSProjects\HackerRank\RunningMedian\RunningMedianTests\bin\Debug\RunningMedianTests.dll
+C:\Projects\VSProjects\HackerRank\RunningMedian\RunningMedianTests\bin\Debug\RunningMedianTests.pdb
+C:\Projects\VSProjects\HackerRank\RunningMedian\RunningMedianTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\VSProjects\HackerRank\RunningMedian\RunningMedianTests\bin\Debug\nunit.framework.dll
+C:\Projects\VSProjects\HackerRank\RunningMedian\RunningMedianTests\bin\Debug\RunningMedian.exe
+C:\Projects\VSProjects\HackerRank\RunningMedian\RunningMedianTests\bin\Debug\RunningMedian.pdb
+C:\Projects\VSProjects\HackerRank\RunningMedian\RunningMedianTests\bin\Debug\nunit.framework.xml
+C:\Projects\VSProjects\HackerRank\RunningMedian\RunningMedianTests\obj\Debug\RunningMedianTests.csprojResolveAssemblyReference.cache
+C:\Projects\VSProjects\HackerRank\RunningMedian\RunningMedianTests\obj\Debug\RunningMedianTests.dll
+C:\Projects\VSProjects\HackerRank\RunningMedian\RunningMedianTests\obj\Debug\RunningMedianTests.pdb

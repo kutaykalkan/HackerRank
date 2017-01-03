@@ -1,0 +1,6 @@
+C:\Projects\VSProjects\HackerRank\DavisStaircase\DavisStaircase\bin\Debug\DavisStaircase.exe.config
+C:\Projects\VSProjects\HackerRank\DavisStaircase\DavisStaircase\bin\Debug\DavisStaircase.exe
+C:\Projects\VSProjects\HackerRank\DavisStaircase\DavisStaircase\bin\Debug\DavisStaircase.pdb
+C:\Projects\VSProjects\HackerRank\DavisStaircase\DavisStaircase\obj\Debug\DavisStaircase.csprojResolveAssemblyReference.cache
+C:\Projects\VSProjects\HackerRank\DavisStaircase\DavisStaircase\obj\Debug\DavisStaircase.exe
+C:\Projects\VSProjects\HackerRank\DavisStaircase\DavisStaircase\obj\Debug\DavisStaircase.pdb

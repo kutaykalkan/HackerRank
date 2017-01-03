@@ -1,0 +1,10 @@
+C:\Projects\VSProjects\IsBinarySearchTree\IsBinarySearchTreeTests\bin\Debug\IsBinarySearchTreeTests.exe.config
+C:\Projects\VSProjects\IsBinarySearchTree\IsBinarySearchTreeTests\bin\Debug\IsBinarySearchTreeTests.exe
+C:\Projects\VSProjects\IsBinarySearchTree\IsBinarySearchTreeTests\bin\Debug\IsBinarySearchTreeTests.pdb
+C:\Projects\VSProjects\IsBinarySearchTree\IsBinarySearchTreeTests\bin\Debug\IsBinarySearchTree.exe
+C:\Projects\VSProjects\IsBinarySearchTree\IsBinarySearchTreeTests\bin\Debug\nunit.framework.dll
+C:\Projects\VSProjects\IsBinarySearchTree\IsBinarySearchTreeTests\bin\Debug\IsBinarySearchTree.pdb
+C:\Projects\VSProjects\IsBinarySearchTree\IsBinarySearchTreeTests\bin\Debug\nunit.framework.xml
+C:\Projects\VSProjects\IsBinarySearchTree\IsBinarySearchTreeTests\obj\Debug\IsBinarySearchTreeTests.csprojResolveAssemblyReference.cache
+C:\Projects\VSProjects\IsBinarySearchTree\IsBinarySearchTreeTests\obj\Debug\IsBinarySearchTreeTests.exe
+C:\Projects\VSProjects\IsBinarySearchTree\IsBinarySearchTreeTests\obj\Debug\IsBinarySearchTreeTests.pdb

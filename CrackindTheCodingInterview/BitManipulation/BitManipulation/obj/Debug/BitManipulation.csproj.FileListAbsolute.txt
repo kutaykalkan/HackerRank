@@ -1,0 +1,6 @@
+C:\Projects\VSProjects\HackerRank\BitManipulation\BitManipulation\bin\Debug\BitManipulation.exe.config
+C:\Projects\VSProjects\HackerRank\BitManipulation\BitManipulation\bin\Debug\BitManipulation.exe
+C:\Projects\VSProjects\HackerRank\BitManipulation\BitManipulation\bin\Debug\BitManipulation.pdb
+C:\Projects\VSProjects\HackerRank\BitManipulation\BitManipulation\obj\Debug\BitManipulation.csprojResolveAssemblyReference.cache
+C:\Projects\VSProjects\HackerRank\BitManipulation\BitManipulation\obj\Debug\BitManipulation.exe
+C:\Projects\VSProjects\HackerRank\BitManipulation\BitManipulation\obj\Debug\BitManipulation.pdb

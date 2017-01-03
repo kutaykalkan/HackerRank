@@ -1,0 +1,6 @@
+C:\Projects\VSProjects\HackerRank\CoinChange\CoinChange\bin\Debug\CoinChange.exe.config
+C:\Projects\VSProjects\HackerRank\CoinChange\CoinChange\bin\Debug\CoinChange.exe
+C:\Projects\VSProjects\HackerRank\CoinChange\CoinChange\bin\Debug\CoinChange.pdb
+C:\Projects\VSProjects\HackerRank\CoinChange\CoinChange\obj\Debug\CoinChange.csprojResolveAssemblyReference.cache
+C:\Projects\VSProjects\HackerRank\CoinChange\CoinChange\obj\Debug\CoinChange.exe
+C:\Projects\VSProjects\HackerRank\CoinChange\CoinChange\obj\Debug\CoinChange.pdb

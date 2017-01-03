@@ -1,0 +1,6 @@
+C:\Projects\VSProjects\DataStructures\Tries\Tries\bin\Debug\Tries.exe.config
+C:\Projects\VSProjects\DataStructures\Tries\Tries\bin\Debug\Tries.exe
+C:\Projects\VSProjects\DataStructures\Tries\Tries\bin\Debug\Tries.pdb
+C:\Projects\VSProjects\DataStructures\Tries\Tries\obj\Debug\Tries.csprojResolveAssemblyReference.cache
+C:\Projects\VSProjects\DataStructures\Tries\Tries\obj\Debug\Tries.exe
+C:\Projects\VSProjects\DataStructures\Tries\Tries\obj\Debug\Tries.pdb
